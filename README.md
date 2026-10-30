@@ -8,18 +8,26 @@ Application de gestion des ressources humaines avec intelligence artificielle, d
 
 Projet intégré réalisé en équipe (ESPRIT, 4TWIN5). Mes principales contributions :
 
-- **CI/CD Jenkins** : conception des 4 pipelines du projet (CI et CD pour le backend et le frontend) et correction des tests unitaires pour leur exécution dans la CI
-- **Dashboard RH dynamique** : indicateurs clés (KPIs), graphiques et tableau d'activités
-- **Accessibilité** : synthèse vocale, ajustement de la taille du texte, raccourcis clavier et intégration des widgets dans la barre latérale et le tableau de bord
-- Intégration de mon travail via des **pull requests** sur la branche principale de l'équipe
+### 🧠 Intelligence artificielle
+- **Assistant vocal IA** : assistant à commande vocale intégré à la plateforme, avec un mode audio uniquement
+- **Module NLP** : traitement du langage naturel appliqué aux données RH
+- **Détection automatique des compétences depuis un CV PDF** : extraction des compétences d'un CV et assignation à l'employé
 
-## 📊 État du Projet: 96% ✅
+### 🧩 Gestion des compétences (full stack)
+- **CRUD complet des compétences** (backend et frontend), avec niveaux jusqu'à « Expert »
+- **Relation employé ↔ compétences**, avec dépôt et validation de CV
+- Recherche, filtres (par département), fiche détaillée, **export CSV** et graphique par département
 
-```
-████████████████████░  96%
-```
+### 📊 Dashboard RH dynamique
+- Indicateurs clés (KPIs), graphiques et tableau d'activités
 
-**Reste à faire**: Tester 3 pipelines Jenkins + Merger vers main (31 minutes)
+### ♿ Accessibilité
+- Synthèse vocale, ajustement de la taille du texte, raccourcis clavier et panneau d'accessibilité intégré à la barre latérale et au tableau de bord
+
+### ⚙️ DevOps — CI/CD Jenkins
+- Conception des **4 pipelines** du projet (CI et CD pour le backend et le frontend), configuration du checkout Git et correction des tests unitaires pour leur exécution dans la CI
+
+Travail intégré via des **pull requests** sur la branche principale de l'équipe.
 
 ---
 
