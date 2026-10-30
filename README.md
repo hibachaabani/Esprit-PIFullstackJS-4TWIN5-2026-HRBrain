@@ -415,9 +415,13 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](./LICENSE) pour plus d
 
 ## 👥 Équipe
 
-- **Développement**: Mouadh Hamzaoui
-- **Infrastructure**: Mouadh Hamzaoui
-- **DevOps**: Mouadh Hamzaoui
+Projet intégré réalisé en équipe — **développeurs** :
+
+- Hiba Chaabani
+- Mouadh Hamzaoui
+- Taieb Bel Hadj Ali
+- Ahmed
+- Karim
 
 ---
 
