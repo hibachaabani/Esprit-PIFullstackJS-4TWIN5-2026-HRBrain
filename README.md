@@ -4,6 +4,15 @@ Application de gestion des ressources humaines avec intelligence artificielle, d
 
 ---
 
+## 👩‍💻 Ma contribution (Hiba Chaabani)
+
+Projet intégré réalisé en équipe (ESPRIT, 4TWIN5). Mes principales contributions :
+
+- **CI/CD Jenkins** : conception des 4 pipelines du projet (CI et CD pour le backend et le frontend) et correction des tests unitaires pour leur exécution dans la CI
+- **Dashboard RH dynamique** : indicateurs clés (KPIs), graphiques et tableau d'activités
+- **Accessibilité** : synthèse vocale, ajustement de la taille du texte, raccourcis clavier et intégration des widgets dans la barre latérale et le tableau de bord
+- Intégration de mon travail via des **pull requests** sur la branche principale de l'équipe
+
 ## 📊 État du Projet: 96% ✅
 
 ```
